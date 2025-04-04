@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Industrial AI Lab"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 👨‍🎓 **About Me**
 
 I am a **Ph.D. candidate** at the Department of Industrial and Systems Engineering at Mississippi State University. My research interest lies in the intersection of **Industrial Systems & Artificial Intelligence**. I am specializing in data-driven industrial decision analytics and advised by [Dr. Haigeng Wang](https://hw898.ise.msstate.edu/). Before my Ph.D., I completed my MS in the same department at Mississippi State University in 2024 and my BS from Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh, in 2018. 
