@@ -25,7 +25,7 @@ author:
   avatar           : "Zoomed.jpg"
   name             : "Abdur Rahman"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming Assistant Professor at Louisiana Tech University (Fall 2025)"
+  bio              : #"Incoming Assistant Professor at Louisiana Tech University (Fall 2025)"
   location         : "USA"
   employer         : "Mississippi State University"
   uri              : # URL
