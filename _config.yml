@@ -13,7 +13,7 @@ title                    : "Industrial AI Lab"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://github.com/abdurrahman1828/iai-lab.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://abdurrahman1828.github.io/iai-lab.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abdurrahman1828/iai-lab.github.io"
 
